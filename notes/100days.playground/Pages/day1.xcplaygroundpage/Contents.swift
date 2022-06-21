@@ -2,11 +2,13 @@ import Cocoa
 //variables are created with var =
 var varTest = 1_000
 //constants are created with let =
+//use constants when you can
 let constTest = 1_001
 
 // multi-line strings require """
 //stuff u want to multi-line
-//""" where the """ are all on solo lines
+//"""
+//where the """ are all on solo lines
 var string = """
 i'm testing out "strings"
 """
