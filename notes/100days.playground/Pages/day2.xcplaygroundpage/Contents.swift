@@ -1,2 +1,3 @@
 import Cocoa
-//assign boolean by using let, ex: let good = true
+//assign boolean by using let
+let goodBoy = true
