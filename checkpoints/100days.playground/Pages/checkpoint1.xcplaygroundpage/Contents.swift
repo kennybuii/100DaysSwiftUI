@@ -3,5 +3,4 @@ import Cocoa
 
 let celsius = 25
 let farenheit = celsius * 9 / 5 + 32
-print(celsius)
-print(farenheit)
+print("celsius: \(celsius) and farenheit: \(farenheit)")
