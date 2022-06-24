@@ -3,5 +3,6 @@
     <pages>
         <page name='checkpoint1'/>
         <page name='checkpoint2'/>
+        <page name='checkpoint3'/>
     </pages>
 </playground>
